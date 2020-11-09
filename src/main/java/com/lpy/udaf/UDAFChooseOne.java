@@ -1,4 +1,4 @@
-package com.lpy.udf;
+package com.lpy.udaf;
 
 import org.apache.hadoop.hive.ql.exec.Description;
 import org.apache.hadoop.hive.ql.exec.UDFArgumentLengthException;
